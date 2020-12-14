@@ -1,8 +1,20 @@
-### Hi there 👋
-
 <!--
-**Popxie/Popxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ * @Description: 
+ * @Author: xiehuaqiang
+ * @FilePath: /Popxie/README.md
+ * @Date: 2020-12-15 09:33:52
+-->
+Hi~ I'm **KaKa_Xie** 👋
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Popxie&hide=stars&show_icons=true"/>  
 
+I'm a 3 years working full stack engineer who likes to write some daily blogs.
+
+- [掘金博客](https://juejin.cn/user/4160207730518871/posts)  
+- [GitHub博客](https://popxie.github.io/kaka-blog/#/home)  
+- 邮箱： mrxiehuaqiang@163.com
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
