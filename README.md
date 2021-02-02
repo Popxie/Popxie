@@ -1,7 +1,7 @@
 <!--
  * @Description: 
  * @Author: xiehuaqiang
- * @FilePath: /Popxie/README.md
+ * @FilePath: \Popxie\README.md
  * @Date: 2020-12-15 09:33:52
 -->
 Hi~ I'm **KaKa_Xie** 👋
@@ -10,8 +10,8 @@ Hi~ I'm **KaKa_Xie** 👋
 
 I'm a 3 years working full stack engineer who likes to write some daily blogs.
 
-- [掘金博客](https://juejin.cn/user/4160207730518871/posts)  
-- [GitHub博客](https://popxie.github.io/kaka-blog/#/home)  
+- [掘金](https://juejin.cn/user/4160207730518871/posts)  
+- [我的笔记·GitHub](https://popxie.github.io/kaka-blog/#/home)  
 - 邮箱： mrxiehuaqiang@163.com
 
 <!-- 
