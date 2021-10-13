@@ -13,7 +13,7 @@ I'm a 4 years working full stack engineer who likes to write some daily blogs.
 
 - Read more about [My Blog](https://popxie.github.io/kaka-blog/#/home)
 - Some shared articles in [掘金](https://juejin.cn/user/4160207730518871/posts)
-- Ping me by [Email： mrxiehuaqiang@163.com](mrxiehuaqiang@163.com)
+- Ping me by Email: mrxiehuaqiang@163.com
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=Popxie&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
