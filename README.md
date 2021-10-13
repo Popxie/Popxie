@@ -11,7 +11,8 @@ Hi~ I'm **KaKa_Xie** 👋
 
 I'm a 4 years working full stack engineer who likes to write some daily blogs.
 
-- Read more about [My Blog](https://popxie.github.io/kaka-blog/#/home)
+- Read more about [My Blogs](https://popxie.github.io/kaka-blog/#/home)
+- Read more about [My Issue Blogs](https://github.com/Popxie/kaka-issue-blog)
 - Some shared articles in [掘金](https://juejin.cn/user/4160207730518871/posts)
 - Ping me by Email: mrxiehuaqiang@163.com
 
