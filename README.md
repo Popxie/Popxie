@@ -9,7 +9,7 @@ Hi~ I'm **KaKa_Xie** 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Popxie&hide=stars&show_icons=true"/>
 
-I'm a 5 years working full stack engineer who likes to write some daily blogs.
+I'm a 5 years working engineer who likes to write some daily blogs.
 
 - Read more about [My Blogs](https://popxie.github.io/kaka-blog/#/home)
 - Read more about [My Issue Blogs](https://github.com/Popxie/kaka-issue-blog)
